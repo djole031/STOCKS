@@ -1,0 +1,2 @@
+u432359251_stock :dbname
+u432359251_djole :dbusername
